@@ -1,0 +1,11 @@
+{
+  "type": "synthetic_sha256_change_receipt",
+  "verified": false,
+  "source_url": "https://example.com/pricing",
+  "before_sha256": "cbd5e98702e64a7499a7a80392d690c66be662d4f03812ef28a3d976004d37da",
+  "after_sha256": "656c9251a12e8c2a57397982b618138613683f666ca3eadd03f6651029d2d5c0",
+  "change": "different_bytes",
+  "source_authenticity_verified": false,
+  "price_verified": false,
+  "note": "Synthetic demonstration only. Not a vendor observation."
+}
