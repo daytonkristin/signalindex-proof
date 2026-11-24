@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Public evaluation only; rights reserved to the extent owned or controlled.
+# Existing grants and lawful exceptions preserved. See RIGHTS.md.
 """Source-free, two-URL informational diagnostic. Not SignalIndex commercial code."""
 import argparse
 import hashlib

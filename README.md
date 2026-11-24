@@ -13,3 +13,6 @@ SignalIndex is a local-first, source-linked pricing and platform-change evidence
 - [Free two-URL HTTPS diagnostic](verify_two_urls.py) — standard-library Python; run `python3 verify_two_urls.py https://example.com https://example.org`. Fetches up to 256 KiB per URL; reports content hashes, **not verified prices**.
 
 The diagnostic is an informational preview, **not** the commercial product. This public repository excludes proprietary source, private signing material, buyer data, audit ledgers, and commercial ZIPs. Commercial availability is distinct from independent security certification or successful paid customer activation.
+
+## Rights and evaluation
+See [RIGHTS.md](RIGHTS.md) and the [public rights policy](https://daytonkristin.github.io/veriproof/rights.html). Existing permissions and lawful exceptions remain unaffected. No new general software or model-training license is granted.
